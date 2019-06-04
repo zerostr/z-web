@@ -1,12 +1,12 @@
 # z-web
-Script Ini Berkaitan Dengan Web.
+<b>Script Ini Berkaitan Dengan Web.</b>
 
-[+] Cara Menjalankan
+<i>[+] Cara Menjalankan</i>
 
-$ pkg install git
-$ git clone https://github.com/zerostr/z-web
-$ cd z-web
-$ bash install.sh
-$ python2 lookweb.py
+$ pkg install git <br>
+$ git clone https://github.com/zerostr/z-web <br>
+$ cd z-web <br>
+$ bash install.sh <br>
+$ python2 lookweb.py <br>
 
 Pesan : Jangan rename file "lookweb.py"
